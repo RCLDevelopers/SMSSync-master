@@ -26,4 +26,4 @@ Post on our [forums][3]
 
 [1]: http://smssync.ushahidi.com/configure/
 [2]: http://smssync.ushahidi.com/developers/
-[3]: https://wiki.ushahidi.com/pages/viewpage.action?pageId=8357140
+[3]: https://github.com/RCLDevelopers
